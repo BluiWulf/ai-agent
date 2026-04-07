@@ -211,4 +211,5 @@ uv.lock
 # Don't include files created during test execution
 lorem.txt
 calculator/
+pkg/
 pkg
